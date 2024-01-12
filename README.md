@@ -1,5 +1,5 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-### I am MinWu!, I am beginner at programming.
+### I am Mauer Cho!, I am beginner at programming. 
 
 
 
